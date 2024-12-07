@@ -1,51 +1,51 @@
 # Python Data Visualization: Matplotlib & Seaborn Masterclass 🎨📊  
 
-Bem-vindo(a) ao repositório **Python Data Visualization: Matplotlib & Seaborn Masterclass**! Aqui você encontrará tudo o que precisa para acompanhar o curso e dominar as bibliotecas Matplotlib e Seaborn, criando visualizações incríveis e impactantes.  
+Bem-vindo(a) ao repositório do curso **[Python Data Visualization: Matplotlib & Seaborn Masterclass](https://www.udemy.com/course/python-data-visualization-matplotlib-seaborn/)**!  
 
-## 🌟 Descrição em Português  
+## 🌟 Descrição  
+Aprenda **Matplotlib** e **Seaborn** de forma prática e baseada em projetos, desenvolvendo visualizações impactantes e aplicando-as a cenários do mundo real.  
 
-Este é um curso prático, baseado em projetos, projetado para ajudá-lo(a) a aprender duas das bibliotecas Python mais populares para visualização de dados e inteligência de negócios: **Matplotlib** e **Seaborn**.  
+- **Matplotlib**: Gráficos básicos e avançados, como linhas, barras, dispersão, histogramas e mais.  
+- **Seaborn**: Gráficos avançados, como boxplots, violin plots, mapas de calor e FacetGrids.  
+- **Projetos**: Demografia de hotéis, preços de café, vendas automotivas e mais.  
 
-O curso começa com uma introdução aos frameworks de visualização de dados em Python, boas práticas e uma revisão dos visuais essenciais, erros comuns e dicas para comunicação eficaz.  
+## 📁 Estrutura do Repositório  
+- **notebooks/**: Projetos e exercícios.  
+- **datasets/**: Dados utilizados.  
+- **assets/**: Imagens e materiais de apoio.  
 
-Você aprenderá:  
-- **Matplotlib**: Fundamentos, construção e personalização de gráficos de linha, barras, pizzas, dispersão, histogramas, e mais; além de técnicas avançadas como subplots, GridSpec e folhas de estilo.  
-- **Seaborn**: Criação de gráficos básicos e avançados como boxplots, violin plots, PairPlots, mapas de calor e FacetGrids.  
-
-Ao longo do curso, você assumirá o papel de Consultor na **Maven Consulting Group**, aplicando suas habilidades a projetos do mundo real, como análise de dados demográficos de hotéis, avaliações de diamantes, preços de café e vendas automotivas.  
-
----
-
-## 🌟 Description in English  
-
-This is a hands-on, project-based course designed to help you learn two of the most popular Python libraries for data visualization and business intelligence: **Matplotlib** and **Seaborn**.  
-
-The course starts with an introduction to Python data visualization frameworks, best practices, and a review of essential visuals, common errors, and tips for effective communication.  
-
-What you’ll learn:  
-- **Matplotlib**: Fundamentals, building and customizing line charts, bar charts, pies, scatterplots, histograms, and more; advanced techniques like subplots, GridSpec, and style sheets.  
-- **Seaborn**: Create basic and advanced visuals like boxplots, violin plots, PairPlots, heatmaps, and FacetGrids.  
-
-Throughout the course, you’ll play the role of a Consultant at **Maven Consulting Group**, applying your skills to real-world projects such as hotel customer demographics, diamond ratings, coffee prices, and automotive sales.  
-
----
-
-## 📁 Estrutura do Repositório / Repository Structure  
-- **notebooks/**: Notebooks com os projetos e exercícios do curso.  
-- **datasets/**: Dados utilizados nos projetos.  
-- **assets/**: Imagens e recursos para os materiais de apoio.  
-
----
-
-## 🚀 Como Usar / How to Use  
+## 🚀 Como Usar  
 
 **Clone o Repositório:** 
 ```bash
-git clone https://github.com/seu-usuario/python-data-visualization.git
+https://github.com/wolneihd/udemy_matplotlib_seaborn.git
 ```
 
 > **⚠️ Observação:**  
 > A pasta **Data Viz with Matplotlib & Seaborn** não está incluída neste repositório devido ao tamanho dos arquivos. Caso precise acessar esses materiais, entre em contato com o dono do repositório para obter os arquivos necessários.
+
+# Python Data Visualization: Matplotlib & Seaborn Masterclass 🎨📊  
+
+Welcome to the repository for the **[Python Data Visualization: Matplotlib & Seaborn Masterclass](https://www.udemy.com/course/python-data-visualization-matplotlib-seaborn/)** course!  
+
+## 🌟 Description  
+Learn **Matplotlib** and **Seaborn** through a hands-on, project-based approach, creating impactful visualizations and applying them to real-world scenarios.  
+
+- **Matplotlib**: Basic and advanced charts like lines, bars, scatter plots, histograms, and more.  
+- **Seaborn**: Advanced charts like boxplots, violin plots, heatmaps, and FacetGrids.  
+- **Projects**: Hotel demographics, coffee prices, automotive sales, and more.  
+
+## 📁 Repository Structure  
+- **notebooks/**: Projects and exercises.  
+- **datasets/**: Data used.  
+- **assets/**: Images and support materials.  
+
+## 🚀 How to Use  
+
+**Clone the Repository:** 
+```bash
+https://github.com/wolneihd/udemy_matplotlib_seaborn.git
+```
 
 > **⚠️ Note:**  
 > The **Data Viz with Matplotlib & Seaborn** folder is not included in this repository due to the size of the files. If you need access to these materials, please contact the repository owner to obtain the necessary files.
